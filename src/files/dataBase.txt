@@ -1,0 +1,49 @@
+{
+	"name": "dataBase",
+	"tables": [
+		null,
+		{
+			"name": "test2",
+			"rows": [
+				{
+					"cells": [
+						{
+							"name": "firstName",
+							"value": "Peter",
+							"type": "string"
+						},
+						{
+							"name": "lastName",
+							"value": "Petrov",
+							"type": "string"
+						},
+						{
+							"name": "age",
+							"value": 20,
+							"type": "number"
+						}
+					]
+				},
+				{
+					"cells": [
+						{
+							"name": "firstName",
+							"value": "Peter",
+							"type": "string"
+						},
+						{
+							"name": "lastName",
+							"value": "mi",
+							"type": "string"
+						},
+						{
+							"name": "age",
+							"value": 3,
+							"type": "number"
+						}
+					]
+				}
+			]
+		}
+	]
+}
